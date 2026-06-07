@@ -1,7 +1,7 @@
 # José Alves e Enzo Santos — State of Data Brazil 2024–2025
 
 **Disciplina:** Análise Avançada de Dados — UNIFSA    
-**Dashboard:** [Acesse aqui]([LINK_DO_DASHBOARD])
+**Dashboard:** [Acesse aqui](https://datastudio.google.com/reporting/d4ac697b-e847-4cbd-a679-4c24e10a1c25)
 
 ---
 
